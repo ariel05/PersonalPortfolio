@@ -20,6 +20,7 @@
     "@angular/platform-browser-dynamic": "~11.0.9",
     "@angular/router": "~11.0.9",
     "rxjs": "~6.6.0",
+    "tailwindcss": "^2.2.16",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
   },
@@ -37,6 +38,7 @@
     "karma-coverage": "~2.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
+    "postcss": "^8.3.9",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",

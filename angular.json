@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/tailwindcss.css"
             ],
             "scripts": []
           },
@@ -120,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "PersonalPortfolio"
+  "defaultProject": "PersonalPortfolio",
+  "cli": {
+    "analytics": false
+  }
 }
